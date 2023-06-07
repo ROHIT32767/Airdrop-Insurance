@@ -4,12 +4,12 @@
 Team Number : 10
 ```
 
-S.NO| Name | Roll Number |
-|--|--|--|
-1 | Gowlapalli Rohit |2021101113|
-2 | Losetti Mourya |2021101121 |
-3 | Vempati Siva Koti Reddy|2021101135 | 
-4 | Kadali Lakshmi Nirmala| 2021101126 | 
+S.NO| Name |
+|--|--|
+1 | Gowlapalli Rohit |
+2 | Losetti Mourya |
+3 | Vempati Siva Koti Reddy|
+4 | Kadali Lakshmi Nirmala|
 
 >* IIITH-Token Transaction
 ```
