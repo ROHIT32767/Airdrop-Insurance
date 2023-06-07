@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "224079419013",
+    "firebase_url": "https://airdrop-insurance-default-rtdb.firebaseio.com",
+    "project_id": "airdrop-insurance",
+    "storage_bucket": "airdrop-insurance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224079419013:android:7bf3b6556f96b82e53fbec",
+        "android_client_info": {
+          "package_name": "com.example.adminpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224079419013-lchsno5i6j7d5bhonk23nm4a5eku2klp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq0maQtWQC1kENnN81xi2qyvFFpWyGFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224079419013-lchsno5i6j7d5bhonk23nm4a5eku2klp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224079419013-52kegscge1spifnrm9q0kv0b0uj46ad9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pef.airdropinsurance"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224079419013:android:463ceae31d8982db53fbec",
+        "android_client_info": {
+          "package_name": "com.pef.airdropinsurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224079419013-u9goadbhlnfef6ofam5nred3c757njks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pef.airdropinsurance",
+            "certificate_hash": "981668e12017ffc667f18983af8c00fa2ed6f275"
+          }
+        },
+        {
+          "client_id": "224079419013-lchsno5i6j7d5bhonk23nm4a5eku2klp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq0maQtWQC1kENnN81xi2qyvFFpWyGFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224079419013-lchsno5i6j7d5bhonk23nm4a5eku2klp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224079419013-52kegscge1spifnrm9q0kv0b0uj46ad9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pef.airdropinsurance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
