@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>224079419013-52kegscge1spifnrm9q0kv0b0uj46ad9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.224079419013-52kegscge1spifnrm9q0kv0b0uj46ad9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>224079419013-nmp7b9imifvkqk4k2n92avbs5ljp1qa3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrdMTc3KrHvXNs6gZDx1dIyMfd8Xh4aZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>224079419013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pef.airdropinsurance</string>
+	<key>PROJECT_ID</key>
+	<string>airdrop-insurance</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airdrop-insurance.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:224079419013:ios:ccf8a722aa41855253fbec</string>
+	<key>DATABASE_URL</key>
+	<string>https://airdrop-insurance-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

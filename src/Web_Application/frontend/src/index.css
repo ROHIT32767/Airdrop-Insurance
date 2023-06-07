@@ -1,0 +1,16 @@
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  max-width: fit-content;
+  align-items: center;
+  margin: auto;
+  align-content: center;
+}
+.input-group {
+  margin-bottom: 15px;
+}
