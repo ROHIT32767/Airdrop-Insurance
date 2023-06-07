@@ -21,7 +21,6 @@ Members can exchange tokens from their wallet to another user of the Application
 3. Balance of the sender’s wallet is deducted and the recipients is incremented by the amount processed during transaction if the transaction is successful
 ```
 ![Transaction](https://github.com/ROHIT32767/Airdrop-Insurance/assets/102759922/64d82ff6-92f6-4f30-82fa-5e549ad10165)
-tion.png)
 >* ManagerPoll
 ```
 1. The users can avail this service of creating a poll by Clicking on “Polls” grid on the Dashboard.
@@ -30,7 +29,7 @@ tion.png)
 ```
 ![ManagerPoll](https://github.com/ROHIT32767/Airdrop-Insurance/assets/102759922/8e4ac800-61b9-4f9c-8a09-6d930439a39b)
 
->*Speculator Role
+>* Speculator Role
 ```
 1. Speculator bids for an insurance option and takes on the responsibility of managing payouts to the users while also assuming the risk involved
 2. Speculator is handed over major share of the premiums received from the Insurance option he is taking risk for and is expected to payout to the members when they claim it back
